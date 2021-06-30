@@ -51,7 +51,3 @@ La propia librería ZXING gestiona los permisos para acceder a la cámara.
 <img src="./images/camera.png" width="300" />
 
 <img src="./images/scann.png" width="300" />
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/j-NcBbPmKgY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
