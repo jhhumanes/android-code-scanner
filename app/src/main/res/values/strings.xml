@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeScanner</string>
+    <string name="scann_button_text">Escanear</string>
+    <string name="canceled">Operación cancelada</string>
+    <string name="content_scanned">Valor escaneado: %1$s</string>
+    <string name="scanner_prompt">Apunta con la cámara y encuadra el código dentro del recuadro.</string>
+    <string name="no_value">Ningún valor escaneado</string>
+    <string name="flash_image_description">Flash image</string>
+    <string name="beep_image_description" />
+</resources>
